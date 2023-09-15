@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AOU9wUY8+fu4LNr0RpyYGcYWDn7XMOk2OisBirD1bDw=",
+  "Source": "PaymentInstamojo",
+  "BasePath": "_content/PaymentInstamojo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
